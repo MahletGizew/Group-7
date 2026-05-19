@@ -1,4 +1,4 @@
-![School Logo](logo.png)
+﻿![School Logo](logo.png)
 
 # College of Engineering  
 ## Department of Software Engineering  
@@ -11,7 +11,7 @@
 ## Group Members  
 1. **Elbetel Shineda** - ETS0406/13  
 2. **Leul Mintesnot** - ETS0766/13  
-3. **Mihret Agegnehu** - ETS0874/13  
+3. **Mahlet Agegnehu** - ETS0874/13  
 4. **Mikiyas Bedasa** - ETS0888/13  
 5. **Natanim Ashenafi** - ETS0979/13  
 
